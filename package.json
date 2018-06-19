@@ -34,7 +34,6 @@
   "directories": {
     "test": "test"
   },
-  "license": " ",
   "bugs": {
     "url": "https://github.com/idottv/mongoose-post-find/issues"
   }
